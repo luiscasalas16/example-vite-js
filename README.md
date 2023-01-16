@@ -15,3 +15,8 @@ Opciones:
 Ajustes realizados en el proyecto:
 - cambio de carpeta de output a 'docs', para compatibilidad con github docs.
 - cambio de la url base a 'example-vite-js' para compatibilidad con github docs.
+
+Comandos
+- npm install
+- npm run dev
+- npm run build
