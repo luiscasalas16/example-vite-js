@@ -2,6 +2,9 @@
 
 Proyecto de ejemplo de configuración de Vite 4. 
 
+Referencias:
+- (https://vitejs.dev/guide/)
+
 Comandos para generar el proyecto:
 - npm create vite@latest
 
