@@ -1,4 +1,4 @@
-# vite js
+# vite-js
 
 Proyecto de ejemplo de configuración de Vite 4. 
 
